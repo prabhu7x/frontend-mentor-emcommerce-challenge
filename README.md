@@ -20,7 +20,7 @@ This project demonstrates my proficiency in web development using React.js and r
 
 ## Getting Started
 
-To run this project on your local machine, follow these steps:
+To run this project on your local machine,
 
 1. **Clone the Repository:**
 
