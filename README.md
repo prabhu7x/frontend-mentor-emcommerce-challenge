@@ -4,6 +4,8 @@
 
 This project showcases my successful completion of a challenge using React.js and raw CSS. In this README, I'll provide an overview of the project, its features, and how to get it up and running on your own machine.
 
+- [Live URL](https://prabhu7x.github.io/frontend-mentor-emcommerce-challenge/)
+
 ## Table of Contents
 
 - [Overview](#overview)
